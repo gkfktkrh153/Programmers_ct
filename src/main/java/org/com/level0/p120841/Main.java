@@ -1,4 +1,4 @@
-package com.ll.level0.p120841;
+package org.com.level0.p120841;
 
 public class Main {
     public static void main(String[] args) {
