@@ -1,13 +1,12 @@
-package org.com.level2;
+package org.com.level2.p87377;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class p87377 {
+public class Main {
 }
 class Solution {
     public int solution(int slice, int n) {
